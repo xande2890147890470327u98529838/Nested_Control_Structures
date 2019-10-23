@@ -12,4 +12,15 @@ for i in range(3):
     for l in range(2):
         print("     Inner For Loop: " + str(l))
         
+print("\n_____________________\n")
+
+
+'''
+Programmer: Mr. Lange
+Date 10/23/19
+Program: Categories
+
+This program will ask users of an interest to them
+then ask for two items related to that interest
+'''
 
